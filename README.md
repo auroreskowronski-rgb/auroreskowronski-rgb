@@ -22,7 +22,7 @@ Un déploiement **modulaire, idempotent et entièrement non interactif** qui con
 | Projet | Description | Tech |
 |---|---|---|
 | [Breakout](https://github.com/auroreskowronski-rgb/breakout-pygame) | Casse-briques avec 3 niveaux, sons et sprites | Python, pygame |
-| [Quizify](https://github.com/auroreskowronski-rgb/quizify) | Quiz de culture générale en console | Python |
+| [Quizify](https://github.com/auroreskowronski-rgb/quizify) | Quiz à thèmes avec interface graphique, minuteur et scores | Python, tkinter |
 
 ## 🧪 Exercices
 | Dépôt | Description | Tech |
