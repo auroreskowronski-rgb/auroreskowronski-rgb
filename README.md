@@ -11,7 +11,7 @@ Développeuse en formation, passionnée par l'automatisation, l'administration s
 ## 🚀 Projets
 | Projet | Description | Tech |
 |---|---|---|
-| [Python](https://github.com/auroreskowronski-rgb/Python) | Jeu Breakout (niveaux CSV, sons, sprites) et exercices | Python, pygame |
+| [Breakout](https://github.com/auroreskowronski-rgb/breakout-pygame) | Casse-briques avec 3 niveaux, sons et sprites | Python, pygame |
 | [Bash](https://github.com/auroreskowronski-rgb/Bash) | Exercices de scripting du module ISR | Bash |
 
 ## 📚 En cours d'apprentissage
