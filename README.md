@@ -9,11 +9,19 @@ Développeuse en formation, passionnée par l'automatisation, l'administration s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![GNS3](https://img.shields.io/badge/GNS3-0A6EBD?logoColor=white)
 
-## 🚀 Projets
+## ⭐ Projet phare : Automatisation d'environnement
+Un déploiement **modulaire, idempotent et entièrement non interactif** qui configure une machine Debian vierge en une commande (`sudo ./setup.sh`) :
+- mise à jour système et installation des paquets manquants uniquement
+- configuration de Git, génération de clés SSH Ed25519, personnalisation de Vim
+- installation de Zsh / Oh My Zsh (plugins, thème, alias)
+- journalisation complète des étapes
+
+**Bash** · **Linux** · **Debian** → [Voir le projet](https://github.com/auroreskowronski-rgb/automatisation-environnement)
+
+## 🚀 Autres projets
 | Projet | Description | Tech |
 |---|---|---|
 | [Breakout](https://github.com/auroreskowronski-rgb/breakout-pygame) | Casse-briques avec 3 niveaux, sons et sprites | Python, pygame |
-| [Automatisation d'environnement](https://github.com/auroreskowronski-rgb/automatisation-environnement) | Scripts d'installation et de configuration d'une machine Debian (git, SSH, vim, zsh) | Bash |
 | [Quizify](https://github.com/auroreskowronski-rgb/quizify) | Quiz de culture générale en console | Python |
 
 ## 🧪 Exercices
