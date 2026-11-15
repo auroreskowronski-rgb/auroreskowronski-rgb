@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Aurore
+# 👋 Bonjour, moi c'est Aurore
 
 Développeuse en formation, passionnée par l'automatisation, l'administration système et la programmation Python.
 
