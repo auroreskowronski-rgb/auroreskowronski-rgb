@@ -12,6 +12,7 @@ Développeuse en formation, passionnée par l'automatisation, l'administration s
 | Projet | Description | Tech |
 |---|---|---|
 | [Breakout](https://github.com/auroreskowronski-rgb/breakout-pygame) | Casse-briques avec 3 niveaux, sons et sprites | Python, pygame |
+| [Quizify](https://github.com/auroreskowronski-rgb/quizify) | Quiz de culture générale en console | Python |
 | [Bash](https://github.com/auroreskowronski-rgb/Bash) | Exercices de scripting du module ISR | Bash |
 
 ## 📚 En cours d'apprentissage
