@@ -27,8 +27,8 @@ Un déploiement **modulaire, idempotent et entièrement non interactif** qui con
 ## 🧪 Exercices
 | Dépôt | Description | Tech |
 |---|---|---|
-| [Python](https://github.com/auroreskowronski-rgb/Python) | Exercices d'apprentissage Python | Python |
-| [Bash](https://github.com/auroreskowronski-rgb/Bash) | Exercices de scripting du module ISR | Bash |
+| [Python](https://github.com/auroreskowronski-rgb/Python) | Exercices Python réalisés à l'ETNA | Python |
+| [Bash](https://github.com/auroreskowronski-rgb/Bash) | Exercices de scripting Bash réalisés à l'ETNA | Bash |
 
 ## 📚 En cours d'apprentissage
 Administration système, scripts Bash avancés, Docker.
